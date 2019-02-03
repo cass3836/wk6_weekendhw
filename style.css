@@ -1,0 +1,27 @@
+body {
+  background-color: #ffff99;
+  /* text-align: ; */
+  font-family: arial;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#tea-rating-form {
+  border: 2px solid;
+}
+
+#ratings-list {
+  border: 3px;
+}
+
+#rating-labels label {
+  margin: 2px;
+}
+
+#save {
+  font-size: 20px;
+}
+
+#delete {
+  font-size: 20px;
+}
